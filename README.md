@@ -1,5 +1,6 @@
 # LoRa Power Consumption and Transmit Power Test Automation
 See the <a href="https://lora-alliance.org/wp-content/uploads/2021/04/Gateway-Test-and-Measurement-Guidelines-Issue01.pdf">LoRa Gateway Test Guidelines</a> for reference
+<a href="https://goughlui.com/2021/03/28/tutorial-introduction-to-scpi-automation-of-test-equipment-with-pyvisa/#google_vignette">An introduction to test automation with PyVisa</a>
 
 ## Hardware Utilized:
 <ul>Rigol DHO804 Oscilloscope</ul>
